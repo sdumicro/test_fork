@@ -7,4 +7,4 @@ test_fork
     for(int i=0;i<100;i++)
         sum+=i;
     cout<<sum<<endl;
-test_fork
+[test_fork](http://github.com/jysdu2006/test_fork)
